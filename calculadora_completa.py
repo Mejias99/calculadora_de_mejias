@@ -65,4 +65,4 @@ while True:
 
   
     else:
-        print("Mmmm... no sé que has introducido pero creo que no ha sido")
+        print("Mmmm... no sé que has introducido pero creo que no coincide con ninguna de las opciones que te he dado")
